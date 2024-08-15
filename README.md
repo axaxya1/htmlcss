@@ -6,13 +6,8 @@ Welcome to the Trend Haven e-commerce website! This project showcases a modern a
 
 Table of Contents
 
-1. Project Overview
-2. Features
-3. Technologies Used
-4. File Structure
-5. Usage
-6. Customization
-7. Contributing
+
+
 
 1. Project Overview
 
@@ -27,7 +22,7 @@ This project is a frontend layout for an e-commerce store named "Trend Haven." I
 - Banner Section: Includes a welcoming banner with a brief description.
 - Deals of the Day: Highlights special deals available each day.
 
-## 3. Technologies Used
+3. Technologies Used
 
 - HTML5: For structuring the website content.
 - CSS3: For styling, layout, transitions, and responsiveness.
