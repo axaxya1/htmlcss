@@ -32,7 +32,6 @@ Add New Features: You can extend this project by adding new sections, such as us
 Contributing
 If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
-This README provides a clear and structured guide for anyone who wishes to understand, use, or contribute to your project. You can adjust the content based on your specific needs.
+
+
